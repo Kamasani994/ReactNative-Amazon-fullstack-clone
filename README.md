@@ -1,5 +1,3 @@
-![Screenshot_1707884426](https://github.com/Kamasani994/ReactNative-Amazon-fullstack-clone/assets/156469346/23e20378-248e-45e1-8cd9-a4b08be3d599)# React Native Amazon clone
-
 Hi! This project is a Full stack Amazon ecommerce clone. The Mobile app is built using React Native expo and the backend server APIs are developed using ExpressJs framework. We are also using mongodb database for storing all the users data.
 
 
